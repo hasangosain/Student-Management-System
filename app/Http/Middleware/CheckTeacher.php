@@ -21,7 +21,7 @@ class CheckTeacher
         }
         else
         {
-            return redirect('/login');
+            return redirect('/signin');
         }
     }
 }
